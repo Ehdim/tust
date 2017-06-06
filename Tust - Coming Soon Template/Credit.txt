@@ -1,0 +1,36 @@
+Credit :-  The following awesome resources were used to build this template.
+
+
+
+Fonts :
+
+- Google Font  - https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700|Nosifer
+
+- Font Awesome Icons - http://fontawesome.io/icons/
+
+- Simple Line Icons - http://simplelineicons.com/
+
+
+
+Images :
+
+- Subtle Patterns - https://subtlepatterns.com/
+
+Please Note : We used images in our templates demo just for demonstration purpose only and 
+Images not included (except pattern images) in the download file due to license right.
+
+
+
+Plugin Resources :
+
+- Jquery - http://www.jquery.com
+
+- Bootstrap Framework - http://getbootstrap.com
+
+- ajaxchimp.js - https://github.com/scdoshi/jquery-ajaxchimp  (Used for mailchimp form working with AJAX)
+
+- downCount.js - https://github.com/sonnyt/downCount  (Used for countdown timer)
+
+- hover3d.js - https://github.com/ariona/hover3d
+
+
